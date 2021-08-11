@@ -1,0 +1,4 @@
+docker build . -t firstdocker
+docker image ls
+
+docker run -p 7000:3000 imageid

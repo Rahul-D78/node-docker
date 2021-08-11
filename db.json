@@ -1,0 +1,29 @@
+[
+    {
+    "dailyconfirmed": "1",
+    "dailydeceased": "0",
+    "dailyrecovered": "0",
+    "date": "30 January ",
+    "totalconfirmed": "1",
+    "totaldeceased": "0",
+    "totalrecovered": "0"
+    },
+    {
+    "dailyconfirmed": "0",
+    "dailydeceased": "0",
+    "dailyrecovered": "0",
+    "date": "31 January ",
+    "totalconfirmed": "1",
+    "totaldeceased": "0",
+    "totalrecovered": "0"
+    },
+    {
+    "dailyconfirmed": "0",
+    "dailydeceased": "0",
+    "dailyrecovered": "0",
+    "date": "01 February ",
+    "totalconfirmed": "1",
+    "totaldeceased": "0",
+    "totalrecovered": "0"
+    }
+] 
